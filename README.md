@@ -4,7 +4,7 @@ specializes in Frontend Develoment </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerald-ux-ux" alt="gerald-ux-ux" /></a> </p>
 
-- 📫 How to reach me **11geraldmoney@gmail.com**
+ Connect with me **11geraldmoney@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
