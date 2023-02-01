@@ -1,5 +1,6 @@
-<h1 align="center"> Gerald Kamau</h1>
-<h3 align="center">A passionate student currently at Moringa School learning full stack development</h3>
+<h1 align="center"> My name is Gerald Kamau</h1>
+<h3 align="center">I am a full stack Software Engineer who 
+specializes in Frontend Develoment </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerald-ux-ux" alt="gerald-ux-ux" /></a> </p>
 
