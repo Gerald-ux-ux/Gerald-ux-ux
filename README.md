@@ -4,8 +4,6 @@ specializes in Frontend Develoment </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerald-ux-ux" alt="gerald-ux-ux" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, React Native**
-
 - 📫 How to reach me **11geraldmoney@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
