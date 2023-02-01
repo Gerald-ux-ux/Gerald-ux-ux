@@ -4,10 +4,10 @@ specializes in Frontend Develoment </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerald-ux-ux" alt="gerald-ux-ux" /></a> </p>
 
- Connect with me 
+My email **11geraldmoney@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-**11geraldmoney@gmail.com**
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/[gerald-kamau-3bab10248/](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gerald-kamau-3bab10248/" height="30" width="40" /></a>
 </p>
