@@ -4,7 +4,7 @@ specializes in Frontend Develoment </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerald-ux-ux" alt="gerald-ux-ux" /></a> </p>
 
-My email **11geraldmoney@gmail.com**
+My email **kamaugerald36@gmail.com**
 
 
 <h3 align="left">Languages and Technologies:</h3>
