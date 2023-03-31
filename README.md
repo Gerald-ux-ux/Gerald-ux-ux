@@ -1,4 +1,4 @@
-<h1 align="center"> My name is Gerald Kamau</h1>
+<h1 align="center"> Gerald Kamau</h1>
 <h3 align="center">I am a full stack Software Engineer who 
 specializes in Frontend Develoment </h3>
 
